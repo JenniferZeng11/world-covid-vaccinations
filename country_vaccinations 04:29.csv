@@ -1,0 +1,78 @@
+country,iso_code,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,daily_vaccinations_raw,daily_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,daily_vaccinations_per_million,vaccines,source_name,source_website
+Albania,ALB,4/29/21,453248,,,19620,10036,15.75,,,3487,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Ministry of Health,https://twitter.com/gmanastirliu/status/1387881026899386376?s=21
+Argentina,ARG,4/29/21,7715006,6806565,908441,157020,145938,17.07,15.06,2.01,3229,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Aruba,ABW,4/29/21,75846,54095,21751,1178,1651,71.04,50.67,20.37,15464,Pfizer/BioNTech,Government of Aruba,https://www.government.aw
+Australia,AUS,4/29/21,2112285,,,82741,46707,8.28,,,1832,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Austria,AUT,4/29/21,3054261,2225301,828984,72289,48326,33.91,24.71,9.2,5366,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Azerbaijan,AZE,4/29/21,1471579,959804,511775,15465,12802,14.51,9.47,5.05,1263,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az
+Bahrain,BHR,4/29/21,1224175,685353,538822,7816,10649,71.94,40.28,31.67,6258,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bangladesh,BGD,4/29/21,8625350,5819656,2805694,107549,125527,5.24,3.53,1.7,762,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-29-4-2021.pdf
+Belgium,BEL,4/29/21,3738748,2938986,800869,62457,52702,32.26,25.36,6.91,4547,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Sciensano,https://epistat.wiv-isp.be/covid/
+Bhutan,BTN,4/29/21,480330,480330,,93,139,62.25,62.25,,180,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MoHBhutan/photos/a.999012646827018/4116301265098125/
+Brazil,BRA,4/29/21,41989957,28778338,13211619,986298,995000,19.75,13.54,6.22,4681,"Oxford/AstraZeneca, Sinovac",Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
+Bulgaria,BGR,4/29/21,803176,595509,207667,26922,14951,11.56,8.57,2.99,2152,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://coronavirus.bg/bg/statistika
+Cambodia,KHM,4/29/21,2241102,1329433,911669,,56447,13.4,7.95,5.45,3376,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",Ministry of Health,http://www.freshnewsasia.com/index.php/en/localnews/195890-2021-04-29-15-32-59.html
+Canada,CAN,4/29/21,13131871,12049818,1082053,305605,281891,34.79,31.93,2.87,7469,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+China,CHN,4/29/21,253463000,,,9558000,6034286,17.61,,,4192,"Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac",National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202104/347a9fa13b3e4a428cae5d54d058fd4e.shtml
+Colombia,COL,4/29/21,4824078,3277767,1546311,109438,85631,9.48,6.44,3.04,1683,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://app.powerbi.com/view?r=eyJrIjoiYjc0NTBhZGMtZGM2NS00YjA0LTljNGYtYTJkNWI1YTJlYzAwIiwidCI6Ijc0YzBjMjUwLTFjNzctNDA1ZC05YjFlLTlhYzFmNTA4YWJlMyIsImMiOjR9&pageName=ReportSectionad9662980220d3261e68
+Cote d'Ivoire,CIV,4/29/21,140270,140270,,7836,4456,0.53,0.53,,169,Oxford/AstraZeneca,Ministry of Health and Public Hygiene,https://www.facebook.com/mshpcmu/posts/1890084301157255
+Croatia,HRV,4/29/21,872726,682757,189969,46887,17978,21.26,16.63,4.63,4379,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://www.index.hr/vijesti/clanak/uzivo-bozinovic-govori-o-mjerama/2272681.aspx
+Curacao,CUW,4/29/21,93919,71645,22274,4173,2319,57.23,43.66,13.57,14132,"Moderna, Pfizer/BioNTech",Government of Curacao,https://bakuna.cw/
+Czechia,CZE,4/29/21,3086076,2094888,995874,72843,51173,28.82,19.56,9.3,4779,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+Denmark,DNK,4/29/21,1976312,1330183,646129,43769,35945,34.12,22.97,11.16,6206,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning
+Estonia,EST,4/29/21,447626,331512,116114,14790,7211,33.74,24.99,8.75,5436,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",National Health Board,https://opendata.digilugu.ee
+Georgia,GEO,4/29/21,43568,43568,,1767,1462,1.09,1.09,,366,Oxford/AstraZeneca,Government of Georgia,https://www.facebook.com/ncdcgeorgia/photos/a.126526410768631/3948807915207109/
+Germany,DEU,4/29/21,28774580,22393183,6381397,916388,630339,34.34,26.73,7.62,7523,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Robert Koch Institut,https://impfdashboard.de/
+Greece,GRC,4/29/21,3075698,2131890,943808,66210,52417,29.51,20.45,9.06,5029,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+Greenland,GRL,4/29/21,14139,8867,5272,292,244,24.9,15.62,9.29,4298,Pfizer/BioNTech,Government of Greenland,https://corona.nun.gl/emner/statistik/antal_vaccinerede
+Hong Kong,HKG,4/29/21,1377737,897172,480565,25771,25857,18.38,11.97,6.41,3449,"Pfizer/BioNTech, Sinovac",Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard
+Hungary,HUN,4/29/21,5794447,3913550,1880897,101570,113586,59.98,40.51,19.47,11758,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Government of Hungary,https://koronavirus.gov.hu/cikkek/3-millio-913-ezer-beoltott-2365-az-uj-fertozott-elhunyt-182-beteg
+Iceland,ISL,4/29/21,133064,98008,35432,11534,2819,38.99,28.72,10.38,8261,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+India,IND,4/29/21,149268772,123811908,25456864,2215380,2359166,10.82,8.97,1.84,1710,"Covaxin, Oxford/AstraZeneca",Government of India,https://dashboard.cowin.gov.in/
+Indonesia,IDN,4/29/21,19890198,12306755,7583443,328726,281327,7.27,4.5,2.77,1029,"Oxford/AstraZeneca, Sinovac",Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines
+Iran,IRN,4/29/21,1002591,798465,204126,63837,47913,1.19,0.95,0.24,570,"Oxford/AstraZeneca, Sputnik V",Government of Iran,https://www.farsnews.ir/news/14000209000403/
+Isle of Man,IMN,4/29/21,72617,56844,15773,914,672,85.4,66.85,18.55,7903,"Oxford/AstraZeneca, Pfizer/BioNTech",Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+Israel,ISR,4/29/21,10494321,5403376,5090945,13051,9629,121.24,62.43,58.82,1112,"Moderna, Pfizer/BioNTech",Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+Italy,ITA,4/29/21,19418615,13707390,5756729,497993,377864,32.12,22.67,9.52,6250,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+Japan,JPN,4/29/21,3489719,2493961,995758,,138953,2.76,1.97,0.79,1099,Pfizer/BioNTech,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+Jordan,JOR,4/29/21,919922,699328,220594,,18787,9.02,6.85,2.16,1841,"Pfizer/BioNTech, Sinopharm/Beijing",Government of Jordan,https://petra.gov.jo/Include/InnerPage.jsp?ID=175868&lang=ar&name=news
+Latvia,LVA,4/29/21,296582,247132,49551,11132,7298,15.72,13.1,2.63,3869,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+Lebanon,LBN,4/29/21,461160,293030,168130,5885,11571,6.76,4.29,2.46,1695,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
+Lithuania,LTU,4/29/21,943685,674105,269580,30164,13261,34.67,24.76,9.9,4871,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460
+Macao,MAC,4/29/21,102444,67115,35464,1990,2022,15.78,10.34,5.46,3114,"Pfizer/BioNTech, Sinopharm/Beijing",Government of Macao,https://www.gov.mo/zh-hant/news/375183/
+Malawi,MWI,4/29/21,290344,290344,,4520,3293,1.52,1.52,,172,Oxford/AstraZeneca,Ministry of Health,https://twitter.com/health_malawi/status/1387792596865634304
+Malaysia,MYS,4/29/21,1421664,877646,544018,12449,22961,4.39,2.71,1.68,709,"Pfizer/BioNTech, Sinovac",Government of Malaysia,https://twitter.com/JKJAVMY/status/1388035322320093189
+Malta,MLT,4/29/21,331438,225810,105628,4504,4263,75.06,51.14,23.92,9655,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+Moldova,MDA,4/29/21,145117,128587,16530,5612,5031,3.6,3.19,0.41,1247,Oxford/AstraZeneca,Ministry of Health,https://vaccinare.gov.md/
+Mongolia,MNG,4/29/21,1138662,811452,327210,58091,66831,34.73,24.75,9.98,20386,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health via ikon.mn,https://ikon.mn/
+Montenegro,MNE,4/29/21,60816,40092,20724,385,381,9.68,6.38,3.3,607,"Sinopharm/Beijing, Sputnik V",Government of Montenegro,https://www.covidodgovor.me/
+Norway,NOR,4/29/21,1700785,1343500,357285,64674,27420,31.37,24.78,6.59,5058,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
+Panama,PAN,4/29/21,672159,482089,190070,28220,11637,15.58,11.17,4.41,2697,"Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://twitter.com/MINSAPma/status/1387935992707964931
+Philippines,PHL,4/29/21,1880975,1614420,266555,,31649,1.72,1.47,0.24,289,"Oxford/AstraZeneca, Sinovac",Government of the Philippines,https://www.covid19.gov.ph/
+Poland,POL,4/29/21,11470800,8597875,2872925,389431,237691,30.31,22.72,7.59,6280,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+Portugal,PRT,4/29/21,3203178,2339925,863231,72771,53396,31.41,22.95,8.47,5237,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
+Qatar,QAT,4/29/21,1526775,971973,554982,29942,25907,52.99,33.74,19.26,8992,Pfizer/BioNTech,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx
+Romania,ROU,4/29/21,5161840,3255570,1906270,80391,83831,26.83,16.92,9.91,4358,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Government of Romania,https://datelazi.ro/
+Russia,RUS,4/29/21,19523861,12152170,7371691,480090,329364,13.38,8.33,5.05,2257,"EpiVacCorona, Sputnik V",Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
+Saint Lucia,LCA,4/29/21,24230,,,107,55,13.2,,,300,Oxford/AstraZeneca,Ministry of Health,https://www.covid19response.lc/
+San Marino,SMR,4/29/21,28970,20269,8701,,547,85.36,59.72,25.64,16118,"Pfizer/BioNTech, Sputnik V",Social Security Institute,https://vaccinocovid.iss.sm/
+Saudi Arabia,SAU,4/29/21,9000505,,,152880,176143,25.85,,,5060,"Oxford/AstraZeneca, Pfizer/BioNTech",Saudi Health Council,https://coronamap.sa
+Senegal,SEN,4/29/21,410924,410924,,3943,2641,2.45,2.45,,158,Sinopharm/Beijing,Ministry of Health,https://twitter.com/MinisteredelaS1/status/1387723943776301057
+Sierra Leone,SLE,4/29/21,59786,54084,5702,,904,0.75,0.68,0.07,113,Oxford/AstraZeneca,Ministry of Health and Sanitation,https://www.facebook.com/mohsict/photos/pcb.1381411242220018/1381410965553379/
+Slovakia,SVK,4/29/21,1551193,1062545,488648,18990,20748,28.41,19.46,8.95,3800,Pfizer/BioNTech,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data
+Slovenia,SVN,4/29/21,610723,418867,191856,16880,6558,29.38,20.15,9.23,3155,"Oxford/AstraZeneca, Pfizer/BioNTech",National Institute of Public Health via Sledilnik,https://covid-19.sledilnik.org/en/stats
+South Africa,ZAF,4/29/21,307591,307591,307591,9438,1664,0.52,0.52,0.52,28,Johnson&Johnson,Ministry of Health,https://sacoronavirus.co.za/
+South Korea,KOR,4/29/21,3254738,3056004,198734,277223,162863,6.35,5.96,0.39,3177,"Oxford/AstraZeneca, Pfizer/BioNTech",Korea Centers for Disease Control and Prevention,http://ncv.kdca.go.kr/
+Sri Lanka,LKA,4/29/21,933591,927711,5880,,464,4.36,4.33,0.03,22,"Oxford/AstraZeneca, Sinopharm/Beijing",Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-04_10_21.pdf
+Sweden,SWE,4/29/21,3142934,2403165,739769,79249,53994,31.12,23.8,7.32,5346,"Oxford/AstraZeneca, Pfizer/BioNTech",Public Health Agency of Sweden,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/vaccination-mot-covid-19/statistik/statistik-over-registrerade-vaccinationer-covid-19/
+Taiwan,TWN,4/29/21,54189,,,3356,2138,0.23,,,90,Oxford/AstraZeneca,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+Thailand,THA,4/29/21,1411614,1075756,335858,66968,63827,2.02,1.54,0.48,914,"Oxford/AstraZeneca, Sinovac",Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-30.pdf
+Trinidad and Tobago,TTO,4/29/21,42154,42154,,72,2581,3.01,3.01,,1844,Oxford/AstraZeneca,Ministry of Health,https://experience.arcgis.com/experience/59226cacd2b441c7a939dca13f832112/
+Turkey,TUR,4/29/21,22568172,13646398,8921774,435369,262742,26.76,16.18,10.58,3115,"Pfizer/BioNTech, Sinovac",COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+Ukraine,UKR,4/29/21,702568,702438,130,73376,27788,1.61,1.61,0,635,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Ministry of Health,https://vaccination.covid19.gov.ua/
+United Arab Emirates,ARE,4/29/21,10547584,,,81333,78049,106.64,,,7891,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United States,USA,4/29/21,237360493,143793565,99668945,2721079,2630407,70.97,43,29.8,7865,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
+Uruguay,URY,4/29/21,1786697,1157323,629374,46307,36810,51.43,33.32,18.12,10597,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
+Vietnam,VNM,4/29/21,506435,506435,,80797,53975,0.52,0.52,,555,Oxford/AstraZeneca,Government of Vietnam,https://vnexpress.net/them-3-ca-lay-nhiem-tu-benh-nhan-covid-19-o-ha-nam-4270750.html
+Zambia,ZMB,4/29/21,26580,26580,,4661,2005,0.14,0.14,,109,Oxford/AstraZeneca,Government of Zambia,https://www.facebook.com/mohzambia/posts/1896610343846947
+Zimbabwe,ZWE,4/29/21,477597,400771,76826,19584,17971,3.21,2.7,0.52,1209,Sinopharm/Beijing,Ministry of Health,https://twitter.com/MoHCCZim/status/1387855358157283328
